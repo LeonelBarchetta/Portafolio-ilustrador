@@ -234,7 +234,7 @@ main{
 }
 
 .portafolio .imagenes div:nth-child(3){
-    background-image: url(img/dios.png);
+    background-image: url(img/gatohongo.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -245,7 +245,7 @@ main{
 }
 
 .portafolio .imagenes div:nth-child(5){
-    background-image: url(img/verde.jpg);
+    background-image: url(img/conejolibelula.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -269,7 +269,7 @@ main{
 }
 
 .portafolio .imagenes div:nth-child(9){
-    background-image: url(img/personaje1.png);
+    background-image: url(img/personaje2.png);
     background-size: cover;
     background-position: center;
 }
